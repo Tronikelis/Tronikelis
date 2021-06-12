@@ -8,6 +8,6 @@
 
 My socials [![Steam][1.2]][1]
 
-[1.2]: https://cdns.iconmonstr.com/wp-content/assets/preview/2014/240/iconmonstr-steam-2.png
+[1.2]: https://user-images.githubusercontent.com/56039679/121783022-4578dd00-cbb5-11eb-8430-50cc83e21f3c.png
 
 [1]: https://steamcommunity.com/id/tronikel
