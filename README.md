@@ -6,7 +6,8 @@
 
 </br>
 
-My socials [![Steam][1.2][1]]
+My socials [![Steam][1.2]][1]
 
 [1.2]: https://cdns.iconmonstr.com/wp-content/assets/preview/2014/240/iconmonstr-steam-2.png
+
 [1]: https://steamcommunity.com/id/tronikel
