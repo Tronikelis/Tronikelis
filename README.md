@@ -8,7 +8,4 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trunkelis&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Tronikel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trunkelis&show_icons=true&theme=tokyonight)
+[![Favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trunkelis&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
