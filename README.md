@@ -7,9 +7,8 @@
 
 </br>
 
-My socials [![Steam][1.2]][1]
 
-[1.2]: https://user-images.githubusercontent.com/56039679/121783022-4578dd00-cbb5-11eb-8430-50cc83e21f3c.png
-[1]: https://steamcommunity.com/id/tronikel
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trunkelis&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-[Portfolio](https://tronikel.com)
+
+![Tronikel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trunkelis&show_icons=true&theme=tokyonight)
