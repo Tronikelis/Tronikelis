@@ -7,8 +7,6 @@
 - Like to watch anime
 - ![](https://komarev.com/ghpvc/?username=Trunkelis)
 
-</br>
-
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
