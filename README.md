@@ -23,8 +23,6 @@ A few things about me:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%208%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -66,7 +64,7 @@ VS Code                  25 hrs 54 mins      ███████████�
 ```
 
 
- Last Updated on 07/01/2022
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
 
 <br>
