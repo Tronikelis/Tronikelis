@@ -23,8 +23,6 @@ A few things about me:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2035%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -73,7 +71,7 @@ exploding-kittens        56 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/01/2022 18:21:28 UTC
+ Last Updated on 26/01/2022 01:05:01 UTC
 <!--END_SECTION:waka-->
 
 <br>
