@@ -1,7 +1,7 @@
 ```
 Hi.
 
-I like to code
+I like to code a bit
 ```
 
 A few things about me:
@@ -74,6 +74,10 @@ Unknown Project          13 mins             ░░░░░░░░░░░�
 Last Updated on 14/02/2022 18:20:32 UTC
 
 <!--END_SECTION:waka-->
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Trunkelis&theme=dark" alt="Tronikel's streak image" /></p>
 
 <br>
 
