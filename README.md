@@ -27,6 +27,8 @@ A few things about me:
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2048%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -75,7 +77,7 @@ tronixme                 4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/04/2022 01:21:38 UTC
+ Last Updated on 02/04/2022 06:22:53 UTC
 <!--END_SECTION:waka-->
 
 <br>
