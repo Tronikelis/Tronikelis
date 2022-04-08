@@ -27,7 +27,7 @@ A few things about me:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2021%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -74,7 +74,7 @@ exam-lite                32 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/04/2022 12:35:44 UTC
+ Last Updated on 08/04/2022 18:24:25 UTC
 <!--END_SECTION:waka-->
 
 <br>
