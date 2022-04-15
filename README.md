@@ -6,7 +6,7 @@ I like to code a bit
 
 A few things about me:
 
--   Using **[Pop!\_OS](https://pop.system76.com/)**
+-   Using **[Arch Linux](https://archlinux.org/)**
 
 -   Interested in OSS
 
