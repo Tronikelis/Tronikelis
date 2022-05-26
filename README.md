@@ -27,7 +27,7 @@ A few things about me:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%201%20min-blue)
 
 **I'm a Night 🦉** 
 
@@ -75,7 +75,7 @@ doto                     0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/05/2022 12:40:36 UTC
+ Last Updated on 26/05/2022 18:26:18 UTC
 <!--END_SECTION:waka-->
 
 <br>
