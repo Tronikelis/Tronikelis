@@ -27,7 +27,7 @@ A few things about me:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2022%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -77,7 +77,7 @@ learning-rust            2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/06/2022 12:40:38 UTC
+ Last Updated on 24/06/2022 18:25:15 UTC
 <!--END_SECTION:waka-->
 
 <br>
