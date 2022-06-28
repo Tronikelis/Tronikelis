@@ -27,7 +27,7 @@ A few things about me:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-734%20hrs%2027%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -77,7 +77,7 @@ fastify-autoroutes       57 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/06/2022 01:52:21 UTC
+ Last Updated on 28/06/2022 06:25:48 UTC
 <!--END_SECTION:waka-->
 
 <br>
