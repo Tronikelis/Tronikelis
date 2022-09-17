@@ -27,10 +27,20 @@ A few things about me:
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+```text
+From: 08 October 2021 - To: 16 September 2022
 
- Last Updated on 04/09/2022 12:38:07 UTC
+Total Time: 1,000 hrs 34 mins
+
+TypeScript    870 hrs 48 mins █████████████████████▓░░░   87.03 %
+JSON          45 hrs 10 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+C++           19 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+JavaScript    17 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+YAML          16 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Markdown      12 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
