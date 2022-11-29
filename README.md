@@ -29,7 +29,7 @@ A few things about me:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2021 - To: 27 November 2022
+From: 08 October 2021 - To: 28 November 2022
 
 Total Time: 1,211 hrs 18 mins
 
