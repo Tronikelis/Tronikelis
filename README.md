@@ -29,16 +29,16 @@ A few things about me:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2021 - To: 04 January 2023
+From: 08 October 2021 - To: 05 January 2023
 
-Total Time: 1,355 hrs 57 mins
+Total Time: 1,361 hrs 43 mins
 
-TypeScript                 1,180 hrs 59 mins█████████████████████▓░░░   87.10 %
-JSON                       61 hrs 24 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-YAML                       22 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+TypeScript                 1,181 hrs 26 mins█████████████████████▓░░░   86.76 %
+JSON                       61 hrs 24 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+YAML                       22 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 JavaScript                 20 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-C++                        19 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Markdown                   12 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+C++                        19 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Markdown                   12 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
