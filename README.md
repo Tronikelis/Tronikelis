@@ -24,7 +24,7 @@ A few things about me:
 
 -   Finished Harvard's **[CS50](https://cs50.harvard.edu)**
 
-`2022-04-02_23:16 () =>` [https://i.imgur.com/JcQEMNG.png](https://i.imgur.com/SA5ICkC.png)
+`2023-03-19_23:13 () =>` [https://i.imgur.com/5pLHeDG.png](https://i.imgur.com/5pLHeDG.png)
 
 <br>
 
