@@ -31,7 +31,7 @@ A few things about me:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2021 - To: 01 April 2023
+From: 08 October 2021 - To: 02 April 2023
 
 Total Time: 1,639 hrs 30 mins
 
