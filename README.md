@@ -7,6 +7,6 @@ fav languages: typescript, rust
 
 2023 - 2024 goals:
 frontend: react/next => solid/vite
-backend: typescript -> rust
-everything else: rust
+backend: typescript -> rust/go
+everything else: rust/go
 ```
