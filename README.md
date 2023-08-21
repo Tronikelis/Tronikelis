@@ -1,3 +1,10 @@
+<p align="center">
+  "It's hard to believe that it's over, isn't it?" <br />
+  "Funny how we get attached to the struggle."
+</p>
+
+<br />
+
 ```
 Hi.
 
