@@ -1,6 +1,7 @@
 <p align="center">
   "It's hard to believe that it's over, isn't it?" <br />
-  "Funny how we get attached to the struggle."
+  "Funny how we get attached to the struggle." <br /> <br />
+  Wait, should I use 0.0.0.0 or 127.0.0.1, help
 </p>
 
 <br />
