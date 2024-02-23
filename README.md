@@ -21,8 +21,9 @@ everything else: rust/go
 
 <br>
 
-![i love this](https://cdn.discordapp.com/attachments/853302837898510346/1135530401679560824/7cN2twz.png)
+![i love this](https://github.com/Tronikelis/Tronikelis/assets/56039679/0664e5a7-32bf-41a7-83d2-56bcece0b85c)
+
 
 <br>
 
-![javascript i just love you man](https://cdn.discordapp.com/attachments/1136647387385966722/1139595041610928128/N79BIA9.png)
+![javascript i just love you man](https://github.com/Tronikelis/Tronikelis/assets/56039679/3b8d1803-6a90-4244-8aaa-d2575a9e8f9b)
