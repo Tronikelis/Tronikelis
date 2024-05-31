@@ -11,7 +11,12 @@ Hi.
 
 I like to code a bit
 
-fav languages: 💙typescript, 🦀rust, 🔵golang
+top homies:
+1. 🔵 golang
+2. 🦀 rust,
+3. 🟦 lua
+4. 💙? typescript,
+
 
 2023 - 2025 goals:
 frontend: react/next => solid/vite
