@@ -3,8 +3,6 @@
   "Funny how we get attached to the struggle." <br /> <br />
 </p>
 
-<br />
-
 ```
 Hi.
 
