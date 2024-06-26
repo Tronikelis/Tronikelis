@@ -1,7 +1,6 @@
 <p align="center">
   "It's hard to believe that it's over, isn't it?" <br />
   "Funny how we get attached to the struggle." <br /> <br />
-  Wait, should I use 0.0.0.0 or 127.0.0.1, help
 </p>
 
 <br />
@@ -9,19 +8,13 @@
 ```
 Hi.
 
-I like to code a bit
+Just your usual developer that likes doing various stuff
 
 top homies:
 1. 🔵 golang
 2. 🦀 rust,
 3. 🟦 lua
 4. 💙? typescript,
-
-
-2023 - 2025 goals:
-frontend: react/next => solid/vite
-backend: typescript -> rust/go
-everything else: rust/go
 ```
 
 <br>
