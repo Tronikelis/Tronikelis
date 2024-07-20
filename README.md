@@ -15,14 +15,18 @@ top homies:
 4. 💙? typescript,
 ```
 
-<br>
+<details>
+  <summary>😊 random</summary>
+  <br>
 
 ![i love this](https://github.com/Tronikelis/Tronikelis/assets/56039679/0664e5a7-32bf-41a7-83d2-56bcece0b85c)
 
-<br>
+  <br>
 
 ![javascript i just love you man](https://github.com/Tronikelis/Tronikelis/assets/56039679/3b8d1803-6a90-4244-8aaa-d2575a9e8f9b)
 
-<br>
+  <br>
 
 ![nvim is superior](https://github.com/Tronikelis/Tronikelis/assets/56039679/1ac47e0e-dbee-4888-a182-1311eae044fa)
+
+</details>
