@@ -1,6 +1,5 @@
 <p align="center">
-  "It's hard to believe that it's over, isn't it?" <br />
-  "Funny how we get attached to the struggle." <br /> <br />
+ "wouldn't your chances of success be better if you poured your all into one thing?"
 </p>
 
 ```
