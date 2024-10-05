@@ -28,4 +28,9 @@ top homies:
 
 ![nvim is superior](https://github.com/Tronikelis/Tronikelis/assets/56039679/1ac47e0e-dbee-4888-a182-1311eae044fa)
 
+<br>
+
+![damn](https://github.com/user-attachments/assets/b0a1790a-24c0-4562-8ab2-fcca5bacdf63)
+
+
 </details>
