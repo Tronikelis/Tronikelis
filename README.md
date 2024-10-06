@@ -11,7 +11,8 @@ top homies:
 1. 🔵 golang
 2. 🦀 rust,
 3. 🟦 lua
-4. 💙? typescript,
+4. 🧱 C
+5. 💙? typescript,
 ```
 
 <details>
