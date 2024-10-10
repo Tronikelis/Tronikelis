@@ -5,8 +5,6 @@
 ```
 Hi.
 
-Glad that you asked, I actually use arch and neovim, by the wayyyy
-
 top homies:
 1. 🔵 golang
 2. 🦀 rust,
